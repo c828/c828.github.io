@@ -1,0 +1,185 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://c828.github.io" resolutions="1x" timestamp="1525465176445">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="394048664" ref="graphics:contact:index:photography:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="3839774930" ref="graphics:contact:index:photography:about"/>
+    <file name="graphics.css" crc="236196040" ref="graphics"/>
+    <file name="nomq_graphics.css" crc="4137932223" ref="graphics"/>
+    <file name="contact.css" crc="219067892" ref="contact"/>
+    <file name="nomq_contact.css" crc="4171298853" ref="contact"/>
+    <file name="index.css" crc="177274506" ref="index"/>
+    <file name="nomq_index.css" crc="91369655" ref="index"/>
+    <file name="photography.css" crc="3972369771" ref="photography"/>
+    <file name="nomq_photography.css" crc="199151431" ref="photography"/>
+    <file name="about.css" crc="3941312506" ref="about"/>
+    <file name="nomq_about.css" crc="76472880" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photography:contact:about:graphics"/>
+    <file name="museutils.js" crc="46400467" ref="index:photography:contact:about:graphics"/>
+    <file name="whatinput.js" crc="86476730" ref="index:photography:contact:about:graphics"/>
+    <file name="museconfig.js" crc="436936948" ref="index:photography:contact:about:graphics"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:photography:contact:about:graphics"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:photography:contact:about:graphics"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:photography:contact:about:graphics"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index:photography:contact:about:graphics"/>
+    <file name="require.js" crc="85721165" ref="index:photography:contact:about:graphics"/>
+    <file name="webpro.js" crc="4152390327" ref="photography:contact:graphics"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="photography:graphics"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="photography:graphics"/>
+    <file name="touchswipe.js" crc="4228958816" ref="photography:graphics"/>
+    <file name="form_check.php" crc="4286608207" ref="contact"/>
+    <file name="form_throttle.php" crc="313199896" ref="contact"/>
+    <file name="form_process.php" crc="3855659497" ref="contact"/>
+    <file name="form-u895.php" crc="480123091" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="168900054" ref="index"/>
+    <file name="skullspaceboii.svg" crc="3870176179" seo="true" ref="index:photography:contact:about:graphics">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="skullspaceboii_poster_.png" crc="513905083" ref="index"/>
+    <file name="img_0732.jpg" crc="3861807295" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0732227x151.jpg" crc="4267725187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:photography:contact:about:graphics"/>
+    <file name="img_7068.jpg" crc="4066430969" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_7640.jpg" crc="307839194" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_7804.jpg" crc="144716056" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_8024.jpg" crc="389443243" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_8158.jpg" crc="3967072337" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_8217.jpg" crc="4024571709" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_8649.jpg" crc="29483761" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_9331.jpg" crc="426735604" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_9795.jpg" crc="343933276" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_9836.jpg" crc="4095855841" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_9842.jpg" crc="4414458" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_706868x45.jpg" crc="3821207595" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_764068x45.jpg" crc="3946526541" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_7804-crop-u1748.jpg" crc="434864162" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_802468x45.jpg" crc="3844262516" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_815868x45.jpg" crc="3854567323" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_821768x45.jpg" crc="529319366" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_864968x45.jpg" crc="3976931899" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_933168x45.jpg" crc="430977102" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_979568x45.jpg" crc="33083789" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_983668x45.jpg" crc="3945620087" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="img_984268x45.jpg" crc="4269170696" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="photography:graphics"/>
+    <file name="img_7804-crop-u17482.jpg" crc="434864162" seo="true" ref="photography">
+      <caption webpage="photography" alt=""/>
+    </file>
+    <file name="astron-01.png" crc="64671431" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="fingle.png" crc="3778763074" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="sghrw.jpg" crc="107553050" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="astron-01-crop-u2036.png" crc="4206147487" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="fingle-crop-u2162.png" crc="3891134940" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="sghrw-crop-u2188.jpg" crc="4278780505" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="astron-01-crop-u20362.png" crc="4206147487" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="fingle-crop-u21622.png" crc="3891134940" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="sghrw-crop-u21882.jpg" crc="4278780505" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="130418844" seo="true" mt="1525464328018" redirect="true"/>
+  <file name="photography.html" crc="415912116" seo="true" mt="1525464328018" redirect="true"/>
+  <file name="contact.html" crc="3913415553" seo="true" mt="1525464351406" redirect="true"/>
+  <file name="about.html" crc="239252901" seo="true" mt="1525464352148" redirect="true"/>
+  <file name="graphics.html" crc="380985298" seo="true" mt="1525464328018" redirect="true"/>
+</manifest>
